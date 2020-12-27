@@ -5,5 +5,5 @@ Yunus Emre Hardal <br>
 Burak Berkay Bayazit
 
 <h1>Plugin`s User Interface </h1>
-<a href="https://imgbb.com/"><img src="https://ibb.co/3NDZLNn" alt="1" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/LtL72t3/PLUGIN.png" alt="1" border="0" /></a>
 
