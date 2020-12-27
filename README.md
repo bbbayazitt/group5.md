@@ -1,7 +1,7 @@
 # group5.md
 
 <h1> Authors </h1>
-Yunus Emre Hardal
+Yunus Emre Hardal <br>
 Burak Berkay Bayazit
 
 <h1>Plugin`s User Interface </h1>
